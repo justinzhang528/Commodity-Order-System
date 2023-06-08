@@ -1,5 +1,5 @@
 # Commodity-Order-System
-## 108-1 視窗程式設計學期專題 （WinForm APP）
+## WinForm APP
 ### APP UI：
 ![image](https://github.com/justinzhang528/Commodity-Order-System/assets/47877537/700789ab-d233-4eb2-808d-c92966162319)
 ![image](https://github.com/justinzhang528/Commodity-Order-System/assets/47877537/275ad008-971d-46be-b88b-f4791cf78e15)
